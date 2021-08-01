@@ -1,18 +1,31 @@
 @charset "UTF-8";
 
 body{
+    background-color: #010440;
+}
+
+main {
     background-color: white;
+    box-shadow: 5px 5px 15px rgba(61, 55, 49, 0.604);
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+#logo {
+    text-align: center;
 }
 
 h1 {
-    background-image: linear-gradient(to right, lightskyblue, white);
+    background-image: linear-gradient(to right, #B880BF, white);
     color: black;
     font-family:'Times New Roman', Times, serif;
     font-size: 30px;
 }
 
 h2 {
-    background-image: linear-gradient(to right, lightskyblue, gold);
+    background-image: linear-gradient(to right, #B880BF, white);
     color: black;
     font-family:'Times New Roman', Times, serif;
     font-size: 25px;
