@@ -42,3 +42,11 @@ li {
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
 }
+
+#scrum {
+    background-image: linear-gradient(to right, #D9AA52, white);
+}
+
+#pdf {
+    background-image: linear-gradient(to right, #D9564A, white);
+}
