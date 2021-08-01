@@ -2,6 +2,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
 
+@font-face {
+    font-family: Arcade;
+    src: url(fontes/arcade.TTF) format('truetype')
+}
+
+@font-face {
+    font-family: Mario;
+    src: url(fontes/mario.ttf) format('truetype')
+}
+
 body{
     background-color: #010440;
 }
@@ -20,11 +30,12 @@ main {
 }
 
 h1 {
-    background-image: linear-gradient(to right, #B880BF, white);
-    color: black;
-    font-family:'Teko', Times, serif;
-    font-size: 50px;
+    
+    color: gold;
+    font-family:'Mario', Times, serif;
+    font-size: 35px;
     text-align: center;
+    
 }
 
 h2 {
