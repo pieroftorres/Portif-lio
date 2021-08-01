@@ -5,12 +5,14 @@ body{
 }
 
 h1 {
+    background-image: linear-gradient(to right, lightskyblue, white);
     color: black;
     font-family:'Times New Roman', Times, serif;
     font-size: 30px;
 }
 
 h2 {
+    background-image: linear-gradient(to right, lightskyblue, gold);
     color: black;
     font-family:'Times New Roman', Times, serif;
     font-size: 25px;
