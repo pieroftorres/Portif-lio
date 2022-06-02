@@ -13,14 +13,14 @@
 }
 
 body{
-    background-color: #010440;
+    background-image: url(Imagens/pixbay.jpg);
 }
 
 main {
-    background-color: white;
+    background-color: blanchedalmond;
     box-shadow: 5px 5px 15px rgba(61, 55, 49, 0.604);
     border-radius: 10px;
-    max-width: 600px;
+    max-width: 1000px;
     min-width: 300px;
     padding: 10px;
     margin: auto;
@@ -40,7 +40,7 @@ h1 {
 }
 
 h2 {
-    background-image: linear-gradient(to right, #B880BF, white);
+    background-image: linear-gradient(to right, #B880BF, blanchedalmond);
     color: black;
     font-family:'Teko', Times, serif;
     font-size: 35px;
@@ -60,18 +60,18 @@ li {
 
 #scrum {
     font-family:'Teko', Times, serif;
-    background-image: linear-gradient(to right, #D9564A, white);
+    background-image: linear-gradient(to right, #D9564A, blanchedalmond);
     font-size: 25px;
 }
 
 #qualidadeSoftware {
     font-family:'Teko', Times, serif;
-    background-image: linear-gradient(to right, #D9AA52, white);
+    background-image: linear-gradient(to right, #D9AA52, blanchedalmond);
     font-size: 25px;
 }
 
 #pdf {
     font-family:'Teko', Times, serif;
-    background-image: linear-gradient(to right, #D9564A, white);
+    background-image: linear-gradient(to right, #D9564A, blanchedalmond);
     font-size: 25px;
 }
